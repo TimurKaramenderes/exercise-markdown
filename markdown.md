@@ -20,11 +20,11 @@ Markdown is a plain text file text editor, also called a markup language, which 
 
 **TOP 5 DES MEILLEURS LETTRES**
 
-1.Y
-2.O
-3.Q
-4.X
-5.U
+1. Y
+2. O
+3. Q
+4. X
+5. U
 
 **Liste de course**
 - Eau
