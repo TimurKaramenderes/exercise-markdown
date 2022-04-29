@@ -1,5 +1,21 @@
 # Voici le markdown.md
 
+## What is Markdown?
+
+Markdown is a plain text file text editor, also called a markup language, which allows you to style your text document really simple. (eg. this file is a Markdown file).
+
+## Why use Markdown
+
+- Markdown is OS independent -It can be used on every existing OS-
+- Markdown is future proof -even if the program you are using to make Markdown files stops working, you can use another one without any losses of content-
+- Markdown files can be edited in every application -that means you can change applications if you want and not lose any content-
+- Markdown is usable for everything
+    * making websites
+    * making notes
+    * creating documents
+    * ...
+- Markdown is supported by gitHub and stackOverflow
+
 #### Les listes
 
 **TOP 5 DES MEILLEURS LETTRES**
@@ -17,13 +33,6 @@
 	- Blancs
 	- Frits 
 
-________________________________
-
-[Ton ami](www.google.com)
-________________________________
-
-![Photo de ton ami.](cdn.pixabay/photo/2016/0825/01/29/google-1618540_960_720.jpg)
-
 
 ## Just a picture
 
@@ -39,3 +48,4 @@ ________________________________
 ### References
 
 [The Markdown guide](https://www.markdownguide.org/getting-started/)
+[Ton ami](www.google.com)
