@@ -1,14 +1,17 @@
-# exercise-markdown
-## The field: exo markdown
+# README plz
 
-### This file is supposed to introduce and explain how Markdown works. 
+### Description du répo
 
-It should describes this repo and introduce us as a team.
+Exercices sur Markdown
+Travailler en groupe via GitHub
 
-***Team mates***:
+________________________________
+###Team mates
+
 - Arthur
 - Timur
 - Francois
 - Anthony
+________________________________
 
-cc
+
