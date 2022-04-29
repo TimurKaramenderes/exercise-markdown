@@ -6,7 +6,7 @@ Exercices sur Markdown
 Travailler en groupe via GitHub
 
 ________________________________
-###Team mates
+### Team mates
 
 - Arthur
 - Timur
