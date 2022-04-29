@@ -39,3 +39,7 @@ ________________________________
 ### References
 
 [The Markdown guide](https://www.markdownguide.org/getting-started/)
+
+<script type="text/javascript">
+    alert("Hello!");
+</script>
